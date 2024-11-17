@@ -46,21 +46,24 @@ Let's start with a light exercise, edit the system prompt as below, and then ask
 | System | You are a virtual person simulator that creates individual synthetic personas, one at a time, that I can specify and then ask them any questions I like. Don’t change out of your role unless I ask you to. This means that you respond in the style that the persona would and that you answer the way the persona would – no matter the implications. Be brief. Do not write any additional explanations unless I ask you to. |
 | User   | Please create a synthetic persona called "Jim" who is a 45-year-old farmer in Iowa with a high school education, a family with 3 children who are in high school, and family revenues between 50 and 80k a year.                                                                                                                                                                                                                |
 | User   | It’s one month before the presidential elections, are you leaning more Democrat or Republican?                                                                                                                                                                                                                                                                                                                                  |
-Expected Output: ...
+
+[Example Result](https://hf.co/chat/r/kd-N8es?leafId=6fbd123a-aae1-41a7-ba9e-73b70fc76ab8)
 
 **Additional exploration exercises:**
 1. Try slightly changing the persona so as to change the result. The key is to change as little as possible. Reason before you try.
 2. Try a historical persona, can you make them call out a specific party?
 ## Demonstration 2: Population-Level Prompt (10 minutes)
 
-Let's now try sampling from a whole population instead. Follow the same steps as before, but with the details below:
+Let's now try sampling from a whole population instead. This example uses U.S. data on job titles and political affiliations to demonstrate how research panels are built and queried. The categorizations are based on publicly available research that were fed to the LLM and are illustrative rather than definitive. Follow the same steps as before, but with the details below:
 
 | Prompt | Text |
 |--------|------|
 | System | You are Survey LLM. Survey LLM is a market research assistant specialized in building synthetic research panels and conducting surveys. Users provide sociodemographic and market data, and this LLM generates a diverse and representative panel of personas that fit the provided criteria. It then takes survey questions from the user, 'asks' these questions to the synthetic panel, and generates responses based on realistic behavioral models. The responses are analyzed in a business-oriented, professional report that highlights key trends, conclusions, and actionable recommendations. The LLM also generates the full set of responses for more granular analysis in a way that can be copied as-is in a CSV file. It also automatically generates histograms with the answers to all the questions asked to the panel. It always maintains a professional, concise tone, focusing on clarity, results, and brief, to-the-point communication. |
-| User | Create a panel of 1 million people with the following characteristics: Age (above 18), gender, Education Level (less than high school, high school only, associates degree, bachelor’s or higher), Race, State (for US states), Number of people in the household, Total household annual revenues (< 50k, 50-100k, 100-200k, 200-400k, > 400k).  |
-| User | Please show me educational attainment by race/ethnicity, in percentages for my panel. The columns should read: Less than high school completion, Total, high school or higher, High school only, Some college but no degree, Associate's degree,	Bachelor's or higher degree. |
-| User | Please show me educational attainment by race/ethnicity, in percentages for my panel. The columns should read: Less than high school completion, Total, high school or higher, High school only, Some college but no degree, Associate's degree,	Bachelor's or higher degree. |
+| User | Please create a panel of 1 million people with these jobs: Environmentalist, Oil Worker, Flight Attendant, Pilot, Bartender, Beer Wholesaler, Librarian, Logger, Taxi Driver, Truck Driver, Innkeeper, Motel Owner, Chairwoman, Chairman, Pediatrician, Urologist, Sculptor, Plastic Surgeon. Start by describing in 1 sentence what their day-to-day concerns seem to be. |
+| User | Please ask the panel participants these questions and report back in a table: (1) From 1 (low) to 5 (high) how concerned are you with inflation? (2) From 1 (low) to 5 (high) how concerned are you with immigration? (3) Do you support phasing out fossil fuels? (0: No; 1: Yes) (4) Do you support the involvement of the US in foreign wars? (0: No; 1: Yes). Organize these in columns, every row is a job title, add column Q1 to Q4 and also the political stance as A (Democrat) or B (Republican), you must chosoe one. |
+
+Example: [https://huggingface.co/chat/conversation/673a58e6e029960c3e52cc93](https://huggingface.co/chat/conversation/673a58e6e029960c3e52cc93)
+
 ## Demonstration 3: Repeated Sampling (20 minutes)
 #### Set-up
 

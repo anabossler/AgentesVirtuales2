@@ -14,7 +14,7 @@ This interactive workshop explores how Large Language Models (LLMs) create and m
 
 **Learning Outcomes**
 
-By the end of this workshop, participants will: -
+By the end of this workshop, participants will: 
 * Create and interact with individual synthetic personas using LLMs 
 * Generate and analyze population-level insights 
 * Understand how to use LLMs for survey simulation 
@@ -52,7 +52,7 @@ Junque de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large La
 
 * Brand, Israeli, & Ngwe. (2023). Using GPT for market research. 
 
-* [Junque de Fortuny, E.. (2025). Simulating market equilibrium with large language models. HICSS 2025](./demo-3/img/simulating-market-eq.pdf)
+* [Junque de Fortuny, E. (2025). Simulating market equilibrium with large language models. HICSS 2025](./demo-3/img/simulating-market-eq.pdf)
 
 * Hewitt, L., Ashokkumar, A., Ghezae, I., & Willer, R. (2024). Predicting results of social science experiments using large language models. Stanford University and New York University.
 
@@ -61,7 +61,3 @@ Junque de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large La
 * World Values Survey. (n.d.). World Values Survey. Retrieved November 18, 2024, from https://www.worldvaluessurvey.org/wvs.jsp
 
 *  Moon, S., Abdulhai, M., Kang, M., Suh, J., Soedarmadji, W., Kohen Behar, E., & Chan, D. M. (2024). Virtual personas for language models via an anthology of backstories. University of California, Berkeley. arXiv:2407.06576v3 [cs.CL]. Retrieved November 1, 2024, from https://arxiv.org/abs/2407.06576v3
-
-
-
-

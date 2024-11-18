@@ -30,6 +30,8 @@ By the end of this workshop, participants will: -
 
 ## More resources
 
+**Slides** [Here](https://docs.google.com/presentation/d/1WAhoBW3yRgDjlGfOdnTXTjgboJPHLdYsNWRLhuA3E6E/edit?usp=sharing)
+
 **Suggested Citation:**
 
 Junque de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large Language Models. GitHub Repository. https://github.com/ciri/persona-workshop
@@ -48,4 +50,18 @@ Junque de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large La
 
 **Additional readings / references**
 
-~TODO~
+* Brand, Israeli, & Ngwe. (2023). Using GPT for market research. 
+
+* [Junque de Fortuny, E.. (2025). Simulating market equilibrium with large language models. HICSS 2025](./demo-3/img/simulating-market-eq.pdf)
+
+* Hewitt, L., Ashokkumar, A., Ghezae, I., & Willer, R. (2024). Predicting results of social science experiments using large language models. Stanford University and New York University.
+
+* Atari, M., Xue, M. J., Park, P. S., Blasi, D. E., & Henrich, J. (n.d.). Which humans? Department of Human Evolutionary Biology, Harvard University.
+
+* World Values Survey. (n.d.). World Values Survey. Retrieved November 18, 2024, from https://www.worldvaluessurvey.org/wvs.jsp
+
+*  Moon, S., Abdulhai, M., Kang, M., Suh, J., Soedarmadji, W., Kohen Behar, E., & Chan, D. M. (2024). Virtual personas for language models via an anthology of backstories. University of California, Berkeley. arXiv:2407.06576v3 [cs.CL]. Retrieved November 1, 2024, from https://arxiv.org/abs/2407.06576v3
+
+
+
+

@@ -14,7 +14,7 @@ This interactive workshop explores how Large Language Models (LLMs) create and m
 
 **Learning Outcomes**
 
-By the end of this workshop, participants will: 
+By the end of this workshop, participants will:
 * Create and interact with individual synthetic personas using LLMs 
 * Generate and analyze population-level insights 
 * Understand how to use LLMs for survey simulation 
@@ -34,16 +34,16 @@ By the end of this workshop, participants will:
 
 **Suggested Citation:**
 
-Junque de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large Language Models. GitHub Repository. https://github.com/ciri/persona-workshop
+Junqué de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large Language Models. Presented at SaudiCIS 2024, Dhahran, Saudi Arabia, King Fahd University of Petroleum and Minerals (KFUPM), from https://github.com/ciri/persona-workshop.
+
 
 **BibTeX:**
 ```bibtex
 @misc{virtual_personas_2024,
-    author = {Enric Junqu\'e de Fortuny},
+    author = {Enric Junqué de Fortuny},
     title = {Virtual Personas: A Hands-on Journey into Large Language Models},
     year = {2024},
-    publisher = {GitHub},
-    journal = {GitHub Repository},
+    note = {Presented at SaudiCIS 2024, Dhahran, Saudi Arabia, King Fahd University of Petroleum and Minerals (KFUPM)},
     howpublished = {\url{https://github.com/ciri/persona-workshop}}
 }
 ```
@@ -52,7 +52,7 @@ Junque de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large La
 
 * Brand, Israeli, & Ngwe. (2023). Using GPT for market research. 
 
-* [Junque de Fortuny, E. (2025). Simulating market equilibrium with large language models. HICSS 2025](./demo-3/img/simulating-market-eq.pdf)
+* [Junque de Fortuny, E.. (2025). Simulating market equilibrium with large language models. HICSS 2025](./demo-3/img/simulating-market-eq.pdf)
 
 * Hewitt, L., Ashokkumar, A., Ghezae, I., & Willer, R. (2024). Predicting results of social science experiments using large language models. Stanford University and New York University.
 

@@ -24,3 +24,7 @@ Let's start with a light exercise, edit the system prompt as below, and then ask
 **Additional exploration exercises:**
 1. Try slightly changing the persona so as to change the result. The key is to change as little as possible. Reason before you try.
 2. Try a historical persona, can you make them call out a specific party?
+
+**Take-home exercises:**
+1. Try changing the model to Qwen or Allam, notice any differences?
+2. Try the same set-up within a domain that you are very familiar with and explore where it works/fails.

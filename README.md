@@ -1,36 +1,28 @@
-# Virtual Personas: A Hands-on Journey into Large Language Models
+# Uso de ChatGPT y Hugging Face en la cuantificación del sesgo de modelos matemáticos
 
-## Introduction
+## Resumen
 
-This interactive workshop explores how Large Language Models (LLMs) create and maintain virtual personas. Participants will gain both theoretical understanding and practical experience through hands-on exercises. The workshop progresses through multiple levels: from basic prompting to complex population-level persona engineering, examining the underlying mechanisms of LLMs. Through a combination of theory and practice, participants will explore the architecture and behavior of these models while working with concrete examples
+En este mini-curso, los participantes aprenderán a crear personas virtuales utilizando plataformas de inteligencia artificial como ChatGPT y Hugging Face. El curso combina fundamentos teóricos sobre los LLMs (Large Language Models, por sus siglas en inglés) con actividades prácticas a través de ejercicios interactivos. Iniciamos con una introducción general a los LLMs, seguida de una explicación del concepto de ingeniería de indicaciones (prompting engineering) y su aplicación en escenarios reales. En la segunda parte del curso, se configurarán agentes capaces de generar datos virtuales a partir de fenómenos observables, y se concluirá con el análisis del sesgo (error) entre los datos generados por los modelos y los valores empíricamente observados
 
-**Workshop Overview (1 hour)**
+**Temario**
 
-1. Introduction & Setup (5 minutes) 
-2. Individual Prompting (15 minutes) 
-3. Population-Level Prompting (20 minutes) 
-4. Repeated Sampling (15 minutes) 
-5. Q&A (5 minutes)
+1. Introducción a los LLMs (Large Laguge Models - ChatGPT y Hugging Face).
+2. Crear e interactuar con agentes virtuales usando LLMs
+3. Generar y analizar conocimientos sobre una población usando LLMs
+4. Comprender cómo usar LLMs para simulación de datos 
+5. Calcular medidas de sesgo entre datos empíricamente observador y datos generados por agentes virtuales
+6. Ejercicios prácticos  
 
-**Learning Outcomes**
+**Requisitos Previos**
+* Laptop/computadora con acceso a internet 
+* Cuenta en Huggingface (https://huggingface.co/)
+* Cuenta en ChatGPT (https://chatgpt.com)
+* Cuenta de Google  (google Colab)
+* Familiaridad básica con Python
 
-By the end of this workshop, participants will:
-* Create and interact with individual synthetic personas using LLMs 
-* Generate and analyze population-level insights 
-* Understand how to use LLMs for survey simulation 
-* Gain hands-on experience with LLM APIs
+## Diapositivas
 
-**Prerequisites** 
-- Laptop/computer with internet access 
-- Huggingface account (for Demos 1 & 2)
-- Google account (for Colab in Demo 3) 
-- Basic familiarity with Python (for Demo 3) 
-
-
-
-## More resources
-
-**Slides** [Here](https://docs.google.com/presentation/d/1WAhoBW3yRgDjlGfOdnTXTjgboJPHLdYsNWRLhuA3E6E/edit?usp=sharing)
+**Descargar aqui** [Here](https://docs.google.com/presentation/d/1WAhoBW3yRgDjlGfOdnTXTjgboJPHLdYsNWRLhuA3E6E/edit?usp=sharing)
 
 **Suggested Citation:**
 
@@ -48,7 +40,7 @@ Junqué de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large L
 }
 ```
 
-**Additional readings / references**
+**Referencias**
 
 * Brand, Israeli, & Ngwe. (2023). Using GPT for market research. 
 

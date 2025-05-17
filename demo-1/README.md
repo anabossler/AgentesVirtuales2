@@ -1,15 +1,15 @@
-## Demonstration 1: Individual Prompt (15 minutes)
+## Demonstration 1: Individual Prompt
 
 Make sure you have access to an LLM where you can edit the System prompt. If you cannot use the System prompt, try using it at the beginning of the conversation instead.
 
-### Setting-up Huggingface (5 minutes)
+### Setting-up Huggingface
 
 1. Go to [https://huggingface.co/](https://huggingface.co/) and create a (free) account.
 2. Navigate to https://huggingface.co/chat/ (the LLM interface of huggingface) and sign in with your account.
 3. Select model "meta-llama/Meta-Llama-3.1-70B-Instruct"
 4. Press the gear icon to edit the System prompt,
 
-### Using Huggingface for prompting individual person (5 minutes)
+### Using Huggingface for prompting individual person
 
 Let's start with a light exercise, edit the system prompt as below, and then ask the LLM questions (you are the "User" in this scenario).
 

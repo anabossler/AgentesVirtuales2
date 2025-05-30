@@ -1,4 +1,4 @@
-## Demonstration 3: Repeated Sampling (20 minutes)
+## Demonstration 3: Repeated Sampling
 #### Set-up
 
 To do repeated sampling, we need access to both the API of an LLM and an environment that can run python. You are free to choose what you are comfortable with, but for the sake of this workshop we will stick to google cloud and Gemini.

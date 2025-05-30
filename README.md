@@ -26,17 +26,17 @@ En este mini-curso, los participantes aprenderán a crear personas virtuales uti
 
 **Suggested Citation:**
 
-Junqué de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large Language Models. Presented at SaudiCIS 2024, Dhahran, Saudi Arabia, King Fahd University of Petroleum and Minerals (KFUPM), from https://github.com/ciri/persona-workshop.
+Barahona, I. (2025). Uso de ChatGPT y Hugging Face en la cuantificación del sesgo de modelos matemáticos. Presented at Unidad Cuernavaca - Instituto de Matemáticas 2025, Cuernavaca, Morelos, Universidad Nacional Autónoma de México (UNAM), from https://github.com/igor0674a/AgentesVirtuales2.
 
 
 **BibTeX:**
 ```bibtex
-@misc{virtual_personas_2024,
-    author = {Enric Junqué de Fortuny},
-    title = {Virtual Personas: A Hands-on Journey into Large Language Models},
-    year = {2024},
-    note = {Presented at SaudiCIS 2024, Dhahran, Saudi Arabia, King Fahd University of Petroleum and Minerals (KFUPM)},
-    howpublished = {\url{https://github.com/ciri/persona-workshop}}
+@misc{Agentes_Virtuales_2025,
+    author = {Igor Barahona},
+    title = {Uso de ChatGPT y Hugging Face en la cuantificación del sesgo de modelos matemáticos},
+    year = {2025},
+    note = {Presented at Unidad Cuernavaca - Instituto de Matemáticas 2025, Cuernavaca, Morelos, Universidad Nacional Autónoma de México (UNAM)},
+    howpublished = {\url{[https://github.com/igor0674a/AgentesVirtuales2)}}
 }
 ```
 

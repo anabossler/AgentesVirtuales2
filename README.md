@@ -22,7 +22,7 @@ En este mini-curso, los participantes aprenderán a crear personas virtuales uti
 
 ## Diapositivas
 
-**Descargar aqui** [Here](https://docs.google.com/presentation/d/1WAhoBW3yRgDjlGfOdnTXTjgboJPHLdYsNWRLhuA3E6E/edit?usp=sharing)
+**Descargar aqui** [Here](https://www.dropbox.com/scl/fi/fddd2bihtre6dlv8sbsib/01_Agentes_Virtuales_UCIM_UNAM_June2025.pptx?rlkey=bkh8zfkkbmh5vog67028j5cfg&dl=0)
 
 **Suggested Citation:**
 

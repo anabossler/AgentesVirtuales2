@@ -42,6 +42,8 @@ Barahona, I. (2025). Uso de ChatGPT y Hugging Face en la cuantificación del ses
 
 **Referencias**
 
+* Junqué de Fortuny, E. (2024). Virtual Personas: A Hands-on Journey into Large Language Models. Presented at SaudiCIS 2024, Dhahran, Saudi Arabia, King Fahd University of Petroleum and Minerals (KFUPM), from https://github.com/ciri/persona-workshop.
+
 * Brand, Israeli, & Ngwe. (2023). Using GPT for market research. 
 
 * [Junque de Fortuny, E.. (2025). Simulating market equilibrium with large language models. HICSS 2025](./demo-3/img/simulating-market-eq.pdf)

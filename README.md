@@ -25,7 +25,7 @@ In this mini-course, participants will learn how to create virtual personas usin
 
 **Suggested Citation:**
 
-Barahona, I. (2025). Leveraging ChatGPT, Gemini, and Hugging Face to develop virtual agents capable of responding to surveys - Workshop. Presented at Unidad Cuernavaca - Instituto de Matemáticas 2025, Cuernavaca, Morelos, Universidad Nacional Autónoma de México (UNAM), from https://github.com/igor0674a/AgentesVirtuales2.
+Barahona, I. (2025). Leveraging ChatGPT, Gemini, and Hugging Face to develop virtual agents capable of responding to surveys - Workshop. Presented at Saltillo Coahuila - Centro de Investigación en Matemáticas Aplicadas (CIMA) 2025, Saltillo, Coahuila, Universidad Autónoma del Estado de Coahuila (UAdeC), from https://github.com/igor0674a/AgentesVirtuales2.
 
 
 **BibTeX:**
@@ -34,7 +34,7 @@ Barahona, I. (2025). Leveraging ChatGPT, Gemini, and Hugging Face to develop vir
     author = {Igor Barahona},
     title = {Leveraging ChatGPT, Gemini, and Hugging Face to develop virtual agents capable of responding to surveys - Workshop},
     year = {2025},
-    note = {Presented at Unidad Cuernavaca - Instituto de Matemáticas 2025, Cuernavaca, Morelos, Universidad Nacional Autónoma de México (UNAM)},
+    note = {Presented at Saltillo Coahuila - Centro de Investigación en Matemáticas (CIMA) 2025, Saltillo, Coahuila, Universidad Autónoma del Estado de Coahuila (UAdeC)},
     howpublished = {\url{[https://github.com/igor0674a/AgentesVirtuales2)}}
 }
 ```

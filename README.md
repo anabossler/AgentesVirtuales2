@@ -21,7 +21,7 @@ In this mini-course, participants will learn how to create virtual personas usin
 
 ## Slides
 
-**Download here** [Here](https://www.dropbox.com/scl/fi/fddd2bihtre6dlv8sbsib/01_Agentes_Virtuales_UCIM_UNAM_June2025.pptx?rlkey=bkh8zfkkbmh5vog67028j5cfg&dl=0)
+**Download here** [Here](https://www.dropbox.com/scl/fi/8cxqie28edl005o41puth/02_Agentes_Virtuales_UAC_Aug2025.pptx?rlkey=5ey51lsuibgfsh9vqitvlc8r8&dl=0)
 
 **Suggested Citation:**
 
